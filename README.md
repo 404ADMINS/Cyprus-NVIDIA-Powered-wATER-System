@@ -21,7 +21,7 @@
 
 ## The Philosophy: I Build It, I Don't Rent It
 
-I don't rely on black-box SaaS products to solve critical infrastructure problems. When Cyprus faced a massive water scarcity crisis—with reservoirs dropping to 13.7% capacity and 40% non-revenue water loss—I didn't wait for a vendor. 
+I don't rely on black-box SaaS products to solve critical infrastructure problems. When Cyprus faced a massive water scarcity crisis, with reservoirs dropping to 13.7% capacity and 40% non-revenue water loss, I didn't wait for a vendor.
 
 I **reverse-engineered** the open-source H2O.ai and NVIDIA Flood Intelligence Blueprint, **inverted the math** from flood risk to drought/scarcity, and built a bespoke, sovereign AI system from the ground up.
 
@@ -86,11 +86,11 @@ The core of the system is a decentralized fleet of AI agents, communicating via 
 ```
 
 ### The 5 Core Agents
-1. **Data Collector:** Ingests live telemetry—reservoir levels, rainfall, desal output, Open-Meteo forecasts, and EU Copernicus satellite imagery.
+1. **Data Collector:** Ingests live telemetry: reservoir levels, rainfall, desal output, Open-Meteo forecasts, and EU Copernicus satellite imagery.
 2. **Risk Analyzer:** Calculates localized scarcity risk scores, identifies leakage hotspots, and flags supply-demand imbalances.
 3. **ML Agent (H2O):** Runs continuous anomaly detection over network sensor data to spot microscopic deviations indicating burst pipes.
 4. **AI Predictor:** Generates 7-day reservoir level forecasts, simulates district demand, and schedules energy-intensive desalination operations against peak solar/wind availability.
-5. **Emergency Responder:** Emits actionable WDD (Water Development Department) recommendations—pressure management, restriction enforcement, and wastewater routing optimization.
+5. **Emergency Responder:** Emits actionable WDD (Water Development Department) recommendations: pressure management, restriction enforcement, and wastewater routing optimization.
 
 ---
 
@@ -102,9 +102,3 @@ To protect my intellectual property and client data, the **proprietary risk algo
 
 I don't share the exact math that runs the country, but I share this: **If you have a complex, data-heavy, critical infrastructure problem, I have the engineering firepower to solve it.**
 
----
-
-<div align="center">
-  <b>Built by 404200.ai</b><br>
-  <i>Design. Iterate. Build. Ship.</i>
-</div>
