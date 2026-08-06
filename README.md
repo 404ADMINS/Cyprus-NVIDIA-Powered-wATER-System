@@ -47,8 +47,10 @@ It aggregates real-time reservoir levels, historical inflow climatology, weather
 - **Backend & Data Pipeline:** 
   - Custom **Python/FastAPI** backend powering the agent runtimes.
   - **PostgreSQL 16** for deterministic state and historical climatology storage.
-- **Frontend UI:** 
-  - **Vue + Vite** for a lightning-fast, highly responsive web dashboard used by operators. *(A live demo link to the frontend dashboard can be provided upon request).*
+- **Operations Console (Edge Layer):**
+  - **Elixir 1.15+ / Phoenix LiveView 1.1** running on the Erlang BEAM virtual machine. The console uses a warm-cache polling pattern: the Elixir OTP process polls the FastAPI backend into an in-memory ETS table and broadcasts updates to all connected operator sessions via Phoenix PubSub over WebSocket. This protects the backend from connection overload when multiple operators have the dashboard open simultaneously.
+- **Frontend UI:**
+  - **React 18 + TypeScript + Vite** for the public-facing water data dashboard, served via Nginx. *(A live demo link can be provided upon request.)*
 
 ### Key Features & Economic Impact
 
