@@ -33,7 +33,7 @@ The goal is not to impress. The goal is to make something that works.
 
 The **Cyprus Water Intelligence (CWI)** system is a production-grade, multi-tier software platform designed to convert raw public water resource metrics into operational decision intelligence. 
 
-It aggregates real-time reservoir levels, historical inflow climatology, weather metrics, **Copernicus Sentinel-2 satellite imagery**, and simulated night-flow distribution network telemetry to detect leaks, predict shortages, and optimize desalination against renewable energy availability.
+It aggregates real-time reservoir levels, historical inflow climatology, weather metrics, **Copernicus Sentinel-2 satellite imagery**, and simulated night-flow distribution network telemetry to detect leaks, predict shortages, and optimize desalination against renewable energy availability. In later phases, the simulated sensor layer will be replaced with physical hardware deployed across the distribution network, developed in collaboration with Samsara (UK) and hardware partners from Taiwan and the United States.
 
 ### Technical Stack
 
