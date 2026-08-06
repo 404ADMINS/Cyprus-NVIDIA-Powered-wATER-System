@@ -9,7 +9,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Grafana](https://img.shields.io/badge/Grafana-Telemetry-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com)
 
-**Reverse engineering enterprise architectures to build sovereign AI systems from the ground up.**  
+**Open-source, NVIDIA-accelerated multi-agent system for sovereign water resource intelligence.**
 *Production-grade multi-agent AI infrastructure for critical water resource management.*
 
 </div>
@@ -35,7 +35,7 @@ The **Cyprus Water Intelligence (CWI)** system is a production-grade, multi-tier
 
 It aggregates real-time reservoir levels, historical inflow climatology, weather metrics, **Copernicus Sentinel-2 satellite imagery**, and simulated night-flow distribution network telemetry to detect leaks, predict shortages, and optimize desalination against renewable energy availability.
 
-### The Tech Stack (The "Crazy Stuff")
+### Technical Stack
 
 - **AI & Multi-Agent Orchestration:** 
   - **NVIDIA NIM (Nemotron 49B)** for high-performance LLM inference without local GPU constraints.
@@ -100,5 +100,5 @@ This repository provides a high-level **architectural overview** of my capabilit
 
 To protect my intellectual property and client data, the **proprietary risk algorithms, customized agent prompts, specific threshold logic, and direct Cyprus WDD integration code** remain closed-source. 
 
-I don't share the exact math that runs the country, but I share this: **If you have a complex, data-heavy, critical infrastructure problem, I have the engineering firepower to solve it.**
+I don't share exact implementation logic publicly, but I share this: **if you have a complex, data-heavy, critical infrastructure problem, the tooling to address it can be built without vendor dependency.**
 
