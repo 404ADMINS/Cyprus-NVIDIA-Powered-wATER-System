@@ -16,6 +16,9 @@
 
 ---
 
+> [!NOTE]
+> **Project Status:** This system is currently under active evaluation by the Cyprus Government (Water Development Department) following its submission in July 2026.
+
 ## ⚡ The Philosophy: We Build It, We Don't Rent It
 
 We don't rely on black-box SaaS products to solve critical infrastructure problems. When Cyprus faced a massive water scarcity crisis—with reservoirs dropping to 13.7% capacity and 40% non-revenue water loss—we didn't wait for a vendor. 
