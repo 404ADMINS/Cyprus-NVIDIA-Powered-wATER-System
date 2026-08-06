@@ -10,7 +10,7 @@
 [![Grafana](https://img.shields.io/badge/Grafana-Telemetry-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com)
 
 **Reverse engineering enterprise architectures to build sovereign AI systems from the ground up.**  
-*No SaaS lock-in. Just raw engineering, multi-agent AI, and real-world telemetry.*
+*Production-grade multi-agent AI infrastructure for critical water resource management.*
 
 </div>
 
