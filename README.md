@@ -55,7 +55,7 @@ It aggregates real-time reservoir levels, historical inflow climatology, weather
 ### Key Features & Economic Impact
 
 - **Agricultural & Soil Moisture Intelligence:** By integrating satellite data (Copernicus Sentinel-2), I monitor soil moisture and vegetation stress. This allows the system to intelligently optimize the routing of **~4M cubic meters of treated wastewater** to agricultural irrigation instead of dumping it into the sea.
-- **Tourism Demand & Price Elasticity:** Cyprus tourism creates massive, geographically uneven demand. Tourist areas can consume up to 500L per person per day (vs. the 120L EU average). I built price elasticity modeling and demand forecasting specifically targeting hotels, resorts, and private swimming pools to simulate the financial and resource impact of consumption policies.
+- **Tourism Demand and Price Elasticity:** Cyprus tourism creates massive, geographically uneven demand. Tourist areas can consume up to 500L per person per day, compared to the 120L EU average. I built price elasticity modeling and demand forecasting specifically targeting hotels, resorts, and private swimming pools to simulate the financial and resource impact of tiered consumption policies. Any revenue generated through such policies is intended to be reinvested directly into water infrastructure R&D, not extracted as profit. The goal is to fund the long-term engineering work needed to solve the scarcity problem permanently.
 
 ---
 
