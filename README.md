@@ -19,13 +19,13 @@
 > [!NOTE]
 > **Project Status:** This system is currently under active evaluation by the Cyprus Government (Water Development Department) following its submission in July 2026.
 
-## ⚡ The Philosophy: We Build It, We Don't Rent It
+## ⚡ The Philosophy: I Build It, I Don't Rent It
 
-We don't rely on black-box SaaS products to solve critical infrastructure problems. When Cyprus faced a massive water scarcity crisis—with reservoirs dropping to 13.7% capacity and 40% non-revenue water loss—we didn't wait for a vendor. 
+I don't rely on black-box SaaS products to solve critical infrastructure problems. When Cyprus faced a massive water scarcity crisis—with reservoirs dropping to 13.7% capacity and 40% non-revenue water loss—I didn't wait for a vendor. 
 
-We **reverse-engineered** the open-source H2O.ai and NVIDIA Flood Intelligence Blueprint, **inverted the math** from flood risk to drought/scarcity, and built a bespoke, sovereign AI system from the ground up.
+I **reverse-engineered** the open-source H2O.ai and NVIDIA Flood Intelligence Blueprint, **inverted the math** from flood risk to drought/scarcity, and built a bespoke, sovereign AI system from the ground up.
 
-We can do crazy stuff. We can reverse engineer. We can build anything.
+I can do crazy stuff. I can reverse engineer. I can build anything.
 
 ---
 
@@ -91,11 +91,11 @@ The core of the system is a decentralized fleet of AI agents, communicating via 
 
 ## 🔒 The Secret Sauce
 
-This repository provides a high-level **architectural overview** of our capabilities. 
+This repository provides a high-level **architectural overview** of my capabilities. 
 
-To protect our intellectual property and client data, the **proprietary risk algorithms, customized agent prompts, specific threshold logic, and direct Cyprus WDD integration code** remain closed-source. 
+To protect my intellectual property and client data, the **proprietary risk algorithms, customized agent prompts, specific threshold logic, and direct Cyprus WDD integration code** remain closed-source. 
 
-We don't share the exact math that runs the country, but we share this: **If you have a complex, data-heavy, critical infrastructure problem, we have the engineering firepower to solve it.**
+I don't share the exact math that runs the country, but I share this: **If you have a complex, data-heavy, critical infrastructure problem, I have the engineering firepower to solve it.**
 
 ---
 
