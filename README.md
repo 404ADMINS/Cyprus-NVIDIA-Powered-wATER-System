@@ -21,11 +21,11 @@
 
 ## The Philosophy: I Build It, I Don't Rent It
 
-I don't rely on black-box SaaS products to solve critical infrastructure problems. When Cyprus faced a massive water scarcity crisis, with reservoirs dropping to 13.7% capacity and 40% non-revenue water loss, I didn't wait for a vendor.
+Cyprus is facing a real water crisis. Reservoirs dropped to 13.7% capacity in early 2026. Up to 40% of distributed water is lost to leakage before it reaches anyone. A 14 million cubic meter annual deficit is projected with no signs of improving on its own.
 
-I **reverse-engineered** the open-source H2O.ai and NVIDIA Flood Intelligence Blueprint, **inverted the math** from flood risk to drought/scarcity, and built a bespoke, sovereign AI system from the ground up.
+Rather than wait for an enterprise vendor to offer a packaged solution, I chose to understand the problem from first principles and build the tooling myself, adapting and extending the open-source H2O.ai and NVIDIA Flood Intelligence Blueprint into a water scarcity intelligence system tailored specifically to Cyprus.
 
-I can do crazy stuff. I can reverse engineer. I can build anything.
+The goal is not to impress. The goal is to make something that works.
 
 ---
 
