@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 Cyprus Water Intelligence (CWI)
+# Cyprus Water Intelligence (CWI)
 **An Enterprise-Grade, NVIDIA-Powered Multi-Agent Water Scarcity System**
 
 [![NVIDIA NIM](https://img.shields.io/badge/NVIDIA-NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://build.nvidia.com)
@@ -19,7 +19,7 @@
 > [!NOTE]
 > **Project Status:** This system is currently under active evaluation by the Cyprus Government (Water Development Department) following its submission in July 2026.
 
-## ⚡ The Philosophy: I Build It, I Don't Rent It
+## The Philosophy: I Build It, I Don't Rent It
 
 I don't rely on black-box SaaS products to solve critical infrastructure problems. When Cyprus faced a massive water scarcity crisis—with reservoirs dropping to 13.7% capacity and 40% non-revenue water loss—I didn't wait for a vendor. 
 
@@ -29,7 +29,7 @@ I can do crazy stuff. I can reverse engineer. I can build anything.
 
 ---
 
-## 🏗️ System Overview
+## System Overview
 
 The **Cyprus Water Intelligence (CWI)** system is a production-grade, multi-tier software platform designed to convert raw public water resource metrics into operational decision intelligence. 
 
@@ -50,14 +50,14 @@ It aggregates real-time reservoir levels, historical inflow climatology, weather
 - **Frontend UI:** 
   - **Vue + Vite** for a lightning-fast, highly responsive web dashboard used by operators. *(A live demo link to the frontend dashboard can be provided upon request).*
 
-### 🌍 Key Features & Economic Impact
+### Key Features & Economic Impact
 
 - **Agricultural & Soil Moisture Intelligence:** By integrating satellite data (Copernicus Sentinel-2), I monitor soil moisture and vegetation stress. This allows the system to intelligently optimize the routing of **~4M cubic meters of treated wastewater** to agricultural irrigation instead of dumping it into the sea.
 - **Tourism Demand & Price Elasticity:** Cyprus tourism creates massive, geographically uneven demand. Tourist areas can consume up to 500L per person per day (vs. the 120L EU average). I built price elasticity modeling and demand forecasting specifically targeting hotels, resorts, and private swimming pools to simulate the financial and resource impact of consumption policies.
 
 ---
 
-## 🧠 The Multi-Agent Architecture
+## The Multi-Agent Architecture
 
 The core of the system is a decentralized fleet of AI agents, communicating via structured data contracts. 
 
@@ -94,7 +94,7 @@ The core of the system is a decentralized fleet of AI agents, communicating via 
 
 ---
 
-## 🔒 The Secret Sauce
+## The Secret Sauce
 
 This repository provides a high-level **architectural overview** of my capabilities. 
 
